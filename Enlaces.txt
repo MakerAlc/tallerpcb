@@ -4,7 +4,8 @@ Para la realización del taller de PCBs se va a usar KiCad (conveniente instalar
 
 Recursos:
 - Libro: Practical electronics for inventors.
-- Canal youtube electónica FP: https://www.youtube.com/c/Electr%C3%B3nicaFP/videos
+- Canal youtube electrónica FP: https://www.youtube.com/c/Electr%C3%B3nicaFP/videos
+- Canal youtube de Aurelio Cadenas: https://www.youtube.com/user/ACADENAS/playlists
 - Foro EEVBlog: https://www.eevblog.com/forum/index.php
 - Foro Todopic: http://www.todopic.com.ar/foros/index.php
 - Foro StackExchange: https://electronics.stackexchange.com
