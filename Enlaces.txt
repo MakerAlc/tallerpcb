@@ -19,7 +19,7 @@ Programas:
 - Eagle: https://www.autodesk.com/products/eagle/overview
 
 Repositorios/Componentes para KiCad:
-- Lirbrerías DigiKey: https://github.com/Digi-Key/digikey-kicad-library
+- Librerías DigiKey: https://github.com/Digi-Key/digikey-kicad-library
 - Librerías Freetronic: https://github.com/freetronics/freetronics_kicad_library
 - Taller KiCad MakerALC:
 - SnapEDA: https://www.snapeda.com/
@@ -38,4 +38,3 @@ Tiendas de componentes electrónicos:
 
 Nivel básico en electrónica, vídeos y enlaces que consultar:
 - en ello estamos...
-
