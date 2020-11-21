@@ -37,5 +37,47 @@ Tiendas de componentes electrónicos:
 - DigiKey: https://www.digikey.es
 - JLCPCB: https://jlcpcb.com
 
-Nivel básico en electrónica, vídeos y enlaces que consultar:
-- en ello estamos...
+
+Nivel básico en electrónica, vídeos y enlaces que consultar (en desarrollo). Cualquier duda sobre el
+contenido de los vídeos preguntar en el grupo.
+
+////////////////////////////////////// Conceptos básicos de electrónica ////////////////////////////////////////
+Explicación de los conceptos de tensión continua (también llamado voltaje o diferencia de potencial), 
+corriente (o intensidad) y resistencia mediante el símil del agua.
+
+Tensión o diferencia de potencial: https://youtu.be/Y1hZXatL6NU?t=128
+El agua sería equivalente a los electrones. Los electrones al moverse a través de los componentes electrónicos generan un efecto 
+o trabajo,por ejemplo cuando los electrones pasan por una bombilla hacen que esta se ilumine.
+
+Batería y corriente: https://youtu.be/qLkqcorUyaM?t=118
+
+Resistencia (vídeo): https://www.youtube.com/watch?v=CRAc5pgDXik
+Explicación del contenido del vídeo.
+Parte de la manguera: Tensión --> presión del agua, Resistencia --> el grosor de la manguera, 
+Corriente --> el caudal de agua que pasa por la manguera, Electrón --> agua.
+Parte del multímetro: Para medir resistencia el multímetro genera una corriente (I) que pasa por sus terminales positivo 
+y negativo, esa corriente generá una tensión (V) en la resistencia (R) que estamos midiendo conectada 
+a los terminales del multímetro. El multímetro mide ese valor de tensión que se genera entre sus terminales (es decir entre
+bornes de la resistencisa conectada a los terminales del multímetro), y con la tensión medida y la corriente conocida 
+que genera el propio multímetro, cálcula el valor de la resistencia conectada a los teminales del multímetor, R = V/I. 
+
+Ley de Ohm: https://www.youtube.com/watch?v=xYgqYMGRTpI
+
+Explicación física de corriente y voltaje continuo: https://www.youtube.com/watch?v=H4h-ziZgsek
+
+Explicación física resistencia: https://www.youtube.com/watch?v=nNj8G50MpDU
+
+Unidades y submúltiplos de Amperios, Ohmios y Voltios: https://www.youtube.com/watch?v=VshJ64CwYN4
+
+Aplicación de la ley de Ohm: https://www.youtube.com/watch?v=oOhpw-VMGwU
+
+Potencia: https://www.youtube.com/watch?v=f6FSJvPEFZU
+
+
+//////////////////////////////////// Componentes /////////////////////////////////////////////////////////////
+
+Diodo LED: https://www.youtube.com/watch?v=Y324Y55lm2E
+Resistencia protección de un LED: https://www.youtube.com/watch?v=QFQpWI79Rdc
+
+
+
